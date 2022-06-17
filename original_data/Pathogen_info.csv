@@ -1,0 +1,49 @@
+Assay name,Type,Strain,Name
+ae_sal,Bacterium,,Aeromonas salmonicida
+c_b_cys,Bacterium,,Candidatus Branchiomonas cysticola
+pch_sal,Bacterium,,Piscichlamydia salmonis
+pisck_sal,Bacterium,,Piscirickettsia salmonis
+re_sal,Bacterium,,Renibacterium salmoninarum
+rlo,Bacterium,,Rickettsia-like organism (RLO)
+sch,Bacterium,,Candidatus Syngnamydia salmonis (Sch)
+te_mar,Bacterium,,Tenacibaculum maritimum
+vi_ang,Bacterium,,Vibrio anguillarum
+vi_sal,Bacterium,,Vibrio salmonicida
+ye_ruc_glnA,Bacterium,,Yersinia ruckeri
+ce_sha,Parasite,,Ceratanova shasta
+de_sal,Parasite,,Dermocystidium salmonis
+ic_hof,Parasite,,Ichthyophonus hoferi
+ic_mul,Parasite,,Ichthyophthirius multifiliis
+IcD,Parasite,,Ichthyobodo sp.
+ku_thy,Parasite,,Kudoa thyrsites
+lo_sal,Parasite,,Loma sp.
+my_arc,Parasite,,Myxobolus arcticus
+my_ins,Parasite,,Myxobolus insidiosus
+na_sal,Parasite,,Nanophyetus salmincola
+ne_per,Parasite,,Neoparamoeba perurans
+pa_kab,Parasite,,Parvicapsula kabatai
+pa_min,Parasite,,Parvicapsula minibicornis
+pa_pse,Parasite,,Parvicapsula pseudobranchicola
+pa_ther,Parasite,,Paranucleospora theridion / Desmozoon lepeophtherii
+sp_des,Parasite,,Sphaerothecum destruens
+te_bry,Parasite,,Tetracapsuloides bryosalmonae
+arena1,Virus,SPAV-1,Salmon pescarenavirus-1
+arena2,Virus,SPAV-2,Salmon pescarenavirus-2
+Bafini_b,Virus,,Putative bafini virus
+Circo,Virus,,Putative circo virus
+cov,Virus,PsNV,Pacific salmon nidovirus
+ctv,Virus,CTV-2,Cutthroat Trout Virus-2
+Hantavirus,Virus,,Putative hantavirus
+Nido2_a,Virus,,Pacific salmon nidovirus sequence variant
+ortho,Virus,RbtOV,Rainbow trout orthomyxovirus
+Picorna2,Virus,,Putative -picorna virus
+prv,Virus,PRV-1,Piscine orthoreovirus-1
+pspv,Virus,,Pacific salmon parvovirus
+Qin,Virus,,Putative Qin-like virus
+reov,Virus,CAV,Chinook aquareovirus
+Rhabdo3,Virus,,Putative rhabdo virus
+Salmovirus,Virus,,SalmovirusWFRC1
+smallUK,Virus,PRNAV,Putative RNA virus
+ven,Virus,ENV,Erythrocytic necrosis virus
+ver,Virus,,Viral encephalopathy and retinopathy virus
+vhsv,Virus,,Viral hemorrhagic septicemia virus

@@ -1,0 +1,89 @@
+Gene,Panel 1,Panel 2 ,Panel 3,Gene Name
+MARCH2,Mortality Related,,,E3 ubiquitin-protein ligase MARCH2
+78d,Reference,,,S100 calcium binding protein
+AARDC,Imminent Mortality,,,Arrestin domain containing 2
+ATP5G3,Mortality Related,,,"ATP synthase lipid-binding protein, mitochondrial precursor"
+B2M,Immune Stimulation,,,beta-2-microglobulin
+BSG,Imminent Mortality,,,Basigin
+C7,Mortality Related,,,Complement component C7 precursor
+CD83,Immune Stimulation,,,CD83
+CDKN1B,Imminent Mortality,Hypoxia,,Cyclin dependent kinase inhibitor 1B
+CFTR_1,General Stress,,,Cystic fibrosis transmembrane conductance regulator I
+CIT,Hypoxia,,,Citron Rho-interacting kinase-like
+CLASPIN,Hypoxia,,,Claspin-like
+CLEC4E,Imminent Mortality,,,"C-type lectin domain family 4, member E"
+Coil,Reference,,,Coiled-coil domain-containing protein 84
+COX6B,Hypoxia,,,Cytochrome C oxidase
+DEXH,Viral Disease Development,,,ATP-dependent RNA helicase
+EF2_1,Thermal Stress,,,Elongation factor 2
+EF2_2,Thermal Stress,,,Elongation factor 2
+EPD,Inflammation,,,Ependymin
+ERCC6L,Hypoxia,,,"ERCC excision repair 6 like, spindle assembly checkpoint helicase"
+ES1,Inflammation,,,ES1 protein homolog
+FKBP10_1,Thermal Stress,,,FK506-binding protein 10 precursor
+FKBP10_2,Thermal Stress,,,FK506-binding protein 10 precursor
+FYNTBP,Mortality Related,,,FYN-T-binding protein
+GAL3,Viral Disease Development,,,Galectin-3-binding protein precursor
+GILT,Inflammation,,,gamma-interferon-inducible lysosomal thiol reductase (GILT)
+GLUL,Imminent Mortality,,,Glutamate-ammonia ligase (glutamine synthetase)
+H2EB1,Imminent Mortality,Cl Levels,,"Histocompatibility 2, class II antigen E beta"
+HEP,Immune Stimulation,,,Hepcidin
+HERC6,Viral Disease Development,,,Probable E3 ubiquitin-protein ligase HERC6
+HLA2G,Imminent Mortality,Cl Levels,,HLA class 2 gamma
+HSC70,Imminent Mortality,Osmotic Stress,General Stress,Heat shock cognate 70kDa protein
+HSP70,Thermal Stress,,,Heat shock 70 kDa protein
+HSP90,General Stress,,,Heat shock protein 90
+HSP90a,Imminent Mortality,General Stress,Osmotic Stress,Heat shock protein 90 alpha
+HSP90al,Thermal Stress,,,Heat shock proteina 90 alpha like
+HTATIP,Mortality Related,,,HIV-1 Tat interactive protein
+ICLP2,Imminent Mortality,Cl Levels,,Invariant chain-like protein 2
+IFI,Viral Disease Development,,,IFN-induced protein
+IFI44,Viral Disease Development,,,IFN-induced protein 44-1
+IFIT5,Viral Disease Development,,,Interferon-induced protein with tetratricopeptide repeats 5
+IFNa,Immune Stimulation,,,IFN-alpha
+IGF,Grow,,,Growth cytokine
+IGMs,Immune Stimulation,,,IgM (sec.) AB044939
+IL_11,Inflammation,,,Interleukin11
+IL_15,Immune Stimulation,,,Interleukin15
+IL_17D,Inflammation,,,Interleukin17D NM 001124399
+IL_1b,Immune Stimulation,,,Interleukin1 beta
+IQGAP1,Imminent Mortality,,,IQ motif containing GTPase activating protein 1
+IRF_1,Mortality Related,,,Interferon regulatory factor 1 (IRF-1) gene
+JUN_F3,General Stress,,,7_4_4_6_Transcription factor AP-1
+KIF15,Hypoxia,,,Kinesin family member 15
+KIF2C,Hypoxia,,,Kinesin-like protein KIF2C
+KRT8,Mortality Related,,,Cyclokeratin-8
+LDHba,Imminent Mortality,General Stress,,L-lactate dehydrogenase B-A chain-like
+Map3k14,Thermal Stress,,,Mitogen-activated protein kinase kinase kinase 14
+MFHAS1,Hypoxia,,,Malignant fibrous histiocytoma-amplified sequence 1 homolog
+MHC_IIb,Immune Stimulation,,,MHCII b chain
+MMP13,Inflammation,,,Matrix metalloproteinase-13
+MMP25,Inflammation,,,Matrix metalloproteinase-25 precursor
+MrpL,Reference,,,"39S ribosomal protein L40, mitochondrial precursor"
+MX,Viral Disease Development,,,Mx
+NAPEPLD2,Inflammation,,,N-acyl-phosphatidylethanolamine-hydrolyzing phospholipase D
+NUPR1,Imminent Mortality,,,Nuclear protein 1
+ODC1,Imminent Mortality,,,Ornithine decarboxylase 1
+P_RAS,Mortality Related,,,"Oncorhynchus mykiss G-protein (P-ras) mRNA, complete cds"
+PRLR,Osmotic Stress,,,Prolactin receptor
+PSMB7,Cl Levels,,,"Proteasome (prosome, macropain) subunit, beta type 7"
+PSMB8,Imminent Mortality,Cl Levels,,"Proteasome (prosome, macropain) subunit, beta type 8"
+RAMP1,Hypoxia,,,receptor activity-modifying protein 1-like
+RGS21,General Stress,,,Regulation of G protein signalling 21
+RIG1,Immune Stimulation,,,post vaccine immune stimulation
+RPL6,Mortality Related,,,Neoplasm-related protein C140
+RRl,Hypoxia,,,ribonucleoside-diphosphate reductase large subunit-like
+RRM2,Hypoxia,,,Ribonucleoside-diphosphate reductase subunit M2-like
+RSAD2,Viral Disease Development,,,Radical S-adenosyl methionine domaine-containing 2
+SAA,Immune Stimulation,,,Serum amyloid protein a (SAA)
+SCG2,Mortality Related,,,Secretogranin2
+SERPIN_1,Thermal Stress,,,Serpin H1 precursor (HSP47)
+SERPIN_2,Thermal Stress,,,Serpin H1 precursor (HSP47)
+SFRS9,Thermal Stress,,,"Splicing factor, arginine/serine-rich 9"
+SHOP21,General Stress,,,Hyperosmotic protein 21 (Shop21)
+TAGLN3,Imminent Mortality,,,Transgelin 3
+TGFb,Inflammation,,,Transforming growth factor ?
+TRIM1,Viral Disease Development,,,Fish virus induced TRIM-1
+TXN,Inflammation,,,Thioredoxin (txn)
+VAR1,Viral Disease Development,,,VAR1
+VEGFa,Imminent Mortality,General Stress,,Vascular endothelial growth factor A
